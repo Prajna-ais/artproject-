@@ -1,0 +1,47 @@
+body {
+  background-color:rgb(125,225,255);
+  color: rgb(255,255,255);
+}
+
+img {
+  float: none; 
+  width: 170px;
+  height: 200px;
+  border-color: green;
+  border-width: 6px;
+  border-style: dotted; 
+  border-radius: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  text-decoration: underline double;
+  text-align: center;
+  font-family: cursive;
+  color: rgb (11,201,17);
+  font-size: 40px;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: left;
+  color:rgb 
+  font-family: cursive;
+  font-size: 30px;
+
+
+}
+
+p {
+  text-align: justify;
+  font-family: inherit;
+  color: rgb(255,255,255);
+  font-size: 20px;
+}
+
+ol {text-align: justify;
+  font-family: cursive;
+  color: rgb(255,255,255);
+  font-size: 20px;
+}
+
